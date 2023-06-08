@@ -2921,7 +2921,7 @@ input, select, textarea {
 							opacity: 0;
 						}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 1200px) {
 
 			#header {
 				padding: 4em 0 0.1em 0 ;
