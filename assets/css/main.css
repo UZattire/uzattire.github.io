@@ -2923,12 +2923,9 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			#header {
-				padding: 4em 0 0.1em 0 ;
-			}
 
 				#header nav {
-					position: relative
+					position: relative;
 					top: 0.5em;
 
 				}
